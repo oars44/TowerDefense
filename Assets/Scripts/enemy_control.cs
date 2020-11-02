@@ -6,7 +6,7 @@ public class enemy_control : MonoBehaviour
 {
     public float speed = 1;
     public float health = 3;
-    public float value = 5;
+    public float value = 10;
     public TextMesh healthBar;
     public Transform previous;
     public Transform destination;

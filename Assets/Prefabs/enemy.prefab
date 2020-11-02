@@ -191,7 +191,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   health: 3
-  value: 5
+  value: 40
   healthBar: {fileID: 7466944558180283190}
   previous: {fileID: 0}
   destination: {fileID: 0}
